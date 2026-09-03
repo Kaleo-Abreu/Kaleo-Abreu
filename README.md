@@ -1,7 +1,11 @@
 # 👋 Olá! Eu sou o Kaleo Abreu
 
 Bem-vindo ao meu perfil!
-Sou **Estudante de Desenvolvimento de Sistemas**, apaixonado por transformar ideias em interfaces funcionais, acessíveis e visualmente bem construídas. Trabalho com desenvolvimento front-end e back-end, sempre buscando aprender mais e evoluir meus projetos.
+
+Sou apaixonado por **Desenvolvimento Web** e gosto de estar envolvido em todas as partes de uma aplicação — desde a criação da interface no **front-end** até a lógica e estrutura por trás dela no **back-end**.
+
+Estou sempre explorando novas tecnologias, criando projetos e evoluindo minhas habilidades como desenvolvedor.
+
 
 ---
 
@@ -11,19 +15,19 @@ Sou **Estudante de Desenvolvimento de Sistemas**, apaixonado por transformar ide
 ### 🚀 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,ts,py,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,sqlite&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks & Bibliotecas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,django,wordpress,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,django&theme=dark" />
 </p>
 
 ### 🗄️ Banco de Dados & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,powershell,netlify,docker,nginx,linux,jquery,git,github,vscode,vercel,githubactions,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,powershell,git,github,vscode,vercel,postman&theme=dark" />
 </p>
 
 
@@ -32,34 +36,25 @@ Sou **Estudante de Desenvolvimento de Sistemas**, apaixonado por transformar ide
 
 ## 🧠 Sobre mim
 
-* 📢 **Formação em Comunicação Social**
+* 📢 **Formação em Téc. Desenvolvimento de Sistemas**
 * 💻 **Desenvolvedor Web** com experiência em:
 
-  * **Django/Python**
-  * **Bootstrap**
+  * **JavaScript**
+  * **Tailwind**
   * **HTML/CSS**
-  * **Javascript (básico)**
-  * **React Native (noções básicas)**
-* 📱 Interesse em apps móveis, acessibilidade e UX
-* 📚 Sempre estudando novas tecnologias e boas práticas
-* 🎨 Gosto de unir comunicação, design e tecnologia em soluções claras e eficientes
+  * **Python/Django (básico)**
+
+* 🌐 Interesse em desenvolvimento Front-end e Back-end
+* 🚀 Buscando constantemente evoluir minhas habilidades e meus projetos
+* 🤝 Facilidade para trabalhar em equipe
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🔹 **Aplicativo de Previsão do Tempo**
+### 🔹 **Sistema de Receitas Simples E Saudáveis**
 
-Interface com gradientes dinâmicos, slides horizontais e animações.
-
-### 🔹 **Sistema Financeiro com AsyncStorage**
-
-Controle de movimentações, componentes reutilizáveis e persistência local.
-
-### 🔹 **Portal Web Responsivo**
-
-HTML, CSS e Bootstrap com foco em acessibilidade e organização.
-
+Interface limpa com componentes utilitários, cards de receitas responsivos e layout estruturado em grid.
 
 ---
 
@@ -95,6 +90,4 @@ HTML, CSS e Bootstrap com foco em acessibilidade e organização.
 
 ---
 
-## ✨ Obrigado por visitar!
-
-Se quiser trocar ideias, revisar código ou colaborar em um projeto, estou por aqui! 🚀
+## 🤝 Obrigado por visitar!

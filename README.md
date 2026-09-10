@@ -39,10 +39,10 @@ Estou sempre explorando novas tecnologias, criando projetos e evoluindo minhas h
 * 📢 **Formação em Téc. Desenvolvimento de Sistemas**
 * 💻 **Desenvolvedor Web** com experiência em:
 
-  * **JavaScript**
+  * **Python**
   * **Tailwind**
   * **HTML/CSS**
-  * **Python/Django (básico)**
+  * **JavaScript (básico)**
 
 * 🌐 Interesse em desenvolvimento Front-end e Back-end
 * 🚀 Buscando constantemente evoluir minhas habilidades e meus projetos

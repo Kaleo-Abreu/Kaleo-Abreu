@@ -6,9 +6,7 @@ Sou apaixonado por **Desenvolvimento Web** e gosto de estar envolvido em todas a
 
 Estou sempre explorando novas tecnologias, criando projetos e evoluindo minhas habilidades como desenvolvedor.
 
-
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +19,7 @@ Estou sempre explorando novas tecnologias, criando projetos e evoluindo minhas h
 ### ⚙️ Frameworks & Bibliotecas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,django,flask&theme=dark" />
 </p>
 
 ### 🗄️ Banco de Dados & Ferramentas
@@ -30,22 +28,27 @@ Estou sempre explorando novas tecnologias, criando projetos e evoluindo minhas h
   <img src="https://skillicons.dev/icons?i=mysql,powershell,git,github,vscode,vercel,postman&theme=dark" />
 </p>
 
-
-
 ---
 
 ## 🧠 Sobre mim
 
 * 📢 **Formação em Téc. Desenvolvimento de Sistemas**
-* 💻 **Desenvolvedor Web** com experiência em:
+
+* 💻 **Desenvolvedor Web** com conhecimentos em:
 
   * **Python**
-  * **Tailwind**
+  * **Flask**
+  * **Django**
+  * **Tailwind CSS**
   * **HTML/CSS**
   * **JavaScript (básico)**
 
 * 🌐 Interesse em desenvolvimento Front-end e Back-end
+
+* 🐍 Buscando me aprofundar cada vez mais em **Back-end com Python**
+
 * 🚀 Buscando constantemente evoluir minhas habilidades e meus projetos
+
 * 🤝 Facilidade para trabalhar em equipe
 
 ---
@@ -60,15 +63,14 @@ Interface limpa com componentes utilitários, cards de receitas responsivos e la
 
 ## 📊 Minhas estatísticas no GitHub
 
-
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaleo-Abreu&theme=gotham" />
-  
 </p>
 
 <p align="center">
-<img width="90%" src="https://streak-stats.demolab.com?user=davialves1820&theme=gotham&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=Kaleo-Abreu&theme=gotham&hide_border=true" />
 </p>
+
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaleo-Abreu&theme=gotham" />
 </p>
@@ -77,15 +79,22 @@ Interface limpa com componentes utilitários, cards de receitas responsivos e la
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaleo-Abreu&theme=gotham" />
 </p>
 
-
-
 ---
 
 ## 📨 Como falar comigo?
 
 <div>
-  <a href="mailto:kaleo.abreu.2009@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/kaleoa_breu"><img src="https://img.shields.io/badge/instagram-333?style=for-the-badge&logo=instagram&logoColor=purple"/></a>
+  <a href="mailto:kaleo.abreu.2009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/kaleoa_breu">
+    <img src="https://img.shields.io/badge/Instagram-333?style=for-the-badge&logo=instagram&logoColor=purple"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kaleo-abreu">
+    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ---
